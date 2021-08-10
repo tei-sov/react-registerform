@@ -1,0 +1,55 @@
+body {
+  background-color: #e1e6f8;
+}
+
+.parp {
+  margin-left: 10px;
+}
+
+.koo {
+  margin-left: 15px;
+}
+
+.under {
+  display: flex;
+  margin-left: 320px;
+}
+
+.woo {
+  display: flex;
+  margin-left: 320px;
+  /*border: solid black;*/
+  border-radius: 5px;
+  background-color: cornflowerblue;
+  height: 40px;
+  width: 8%;
+  box-shadow: unset;
+  background-position: unset;
+}
+
+.kk {
+  display: flex;
+  margin: auto;
+  color: white;
+}
+
+.fire {
+  margin-left: 850px;
+}
+
+.south {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.move {
+  display: flex;
+  margin-left: 650px;
+  border-radius: 10px;
+  background-color: rgb(68, 158, 33);
+  height: 15px;
+  width: 15%;
+  border-color: none;
+  
+}
