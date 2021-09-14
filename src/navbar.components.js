@@ -14,7 +14,7 @@ function Navbar() {
         borderTop: "10px solid rgb(50,117,243)",
       }}
     >
-      <h1 className="parp">CodeTrain Registration Form</h1>
+      <h1 className="parpi">CodeTrain Registration Form</h1>
 
       <h5 className="koo">
         This form is the first step to register for Codetrain's program starting

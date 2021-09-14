@@ -15,6 +15,14 @@ function Indicate() {
       }}
     >
       <h4 className="parp">Please indicate who is going to pay your fees * </h4>
+      <input type="radio" className="radio"></input>
+      <label htmlFor="name">Yourself</label>
+
+      <input type="radio" className="radio"></input>
+      <label htmlFor="name">Parent/Sponsor</label>
+
+      <input type="radio"></input>
+      <label htmlFor="name">Organisation</label>
     </div>
   );
 }

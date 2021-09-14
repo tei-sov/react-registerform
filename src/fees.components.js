@@ -6,6 +6,7 @@ function Fees() {
       style={{
         display: "flex",
         flexWrap: "wrap",
+        flex: "column",
         margin: "auto",
         height: "30vh",
         width: "50vw",
@@ -18,7 +19,11 @@ function Fees() {
         Can you pay 60% or more of the full Codetrain fees (GHS6000 for Ghanaian
         applicants or $1,200 for international applicants) *{" "}
       </h4>
-      <input></input>
+      <input type="radio"></input>
+      <label htmlFor="name">Yes</label>
+      <br />
+      <input type="radio"></input>
+      <label htmlFor="name">No</label>
     </div>
   );
 }
